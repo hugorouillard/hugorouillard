@@ -1,3 +1,3 @@
 hello.
 
-[hugorouillard.dev](hugorouillard.dev)
+[Personal website](hugorouillard.dev)
